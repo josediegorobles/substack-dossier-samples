@@ -37,10 +37,14 @@ Seis bloques, calculados sobre los **últimos 12 meses** de archivo público:
 
 ## Precios
 
-149 € una publicación · 290 € comparativa de tres · 190 €/mes (cuatro informes al mes).
-Entrega por email en menos de 24 h, como PDF bilingüe.
+| Producto | Precio | Cómo pedirlo |
+|---|---|---|
+| Informe de una publicación | **149 €** | [pagar con tarjeta](https://buy.stripe.com/fZu3cxa0k1XF5ADbkKfrW06) |
+| Comparativa de tres publicaciones | **290 €** | [pagar con tarjeta](https://buy.stripe.com/5kQ9AV3BW6dVfbd4WmfrW07) |
+| Retainer (4 informes al mes) | **190 €/mes** | [suscribirse](https://buy.stripe.com/00w3cx3BWcCj2or3SifrW08) |
 
-Para encargar uno o pedir una muestra sobre tu publicación: **jd.robles@gmail.com**
+Entrega por email en menos de 24 h, como PDF bilingüe. Si prefieres hablar antes de pagar, escribe a
+**jd.robles@gmail.com** indicando la publicación.
 
 ---
 
