@@ -8,20 +8,25 @@ Generated: 2026-09-17T12:00:00.000Z
 - URL: https://www.error500.net
 - Declared subscribers: 9000
 - Paid band: —
+- First post analyzed: 2025-09-26 (72 in window)
 
 ## Publishing cadence
 
-- Posts per month: 6.08
+- Posts per month: 6.15
 - Most frequent weekday: Friday
-- Trend: -28.8%
+- Trend: -27.6%
 
 ## Engagement
 
 - Median reactions: 37
 - Median comments: 4
 - Median restacks: 4
+- p90 of reactions: 57
+- p90 of comments: 12
+- p90 of restacks: 10
 - Reactions per subscriber: 0.41%
-- Trend: +1.4%
+- Trend: +9.5%
+- Tranche calibration: public study of 485 newsletters and 7,631 posts; applied tranche: between 1,000 and 9,999 subscribers (tranche median: 14 reactions).
 - Top posts:
   - La naturaleza precaria de la ventaja comparativa humana frente al agente de inteligencia artificial (94, 22, 13)
   - El influenciador influenciado (84, 16, 15)
@@ -31,8 +36,8 @@ Generated: 2026-09-17T12:00:00.000Z
 
 ## Paywall
 
-- Paid share: 0
-- Mean words (free): 1045
+- Paid share: 0.0%
+- Mean words (free): 1050
 - Mean words (paid): —
 - Paid-only tags: —
 
@@ -43,10 +48,11 @@ Generated: 2026-09-17T12:00:00.000Z
 
 ## Traffic lights and estimate
 
-- Traffic lights:
-  - Engagement ratio: amber (0.41%)
-  - Cadence trend: amber (-28.8%)
-  - Paywall share: red (0)
-  - Engagement trend: green (+1.4%)
-  - Data transparency: amber (1)
+- Engagement ratio: green (37 reactions vs 14 in its tranche · red below 40% of the tranche median, amber below 80%)
+- Cadence trend: amber (-27.6% · red below -50% change, amber below -20%)
+- Paywall share: amber (0.0% · informative amber · no paywall: monetization not based on subscription)
+- Engagement trend: green (+9.5% · red below -30% change, amber below 0%)
+- Data transparency: amber (1 · green with 2 data points, amber with 1, red with 0)
 - Estimated paid subscribers: no data
+
+- Note: — means insufficient sample to compute; “no data” means information unavailable.
