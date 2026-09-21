@@ -24,15 +24,20 @@ Seis bloques, calculados sobre los **últimos 12 meses** de archivo público:
 4. **Muro de pago** — porcentaje de posts solo para suscriptores, longitud media de los posts gratuitos frente a los
    de pago, y qué temas se reservan al pago.
 5. **Red de recomendaciones** — a quién recomienda y qué recomendaciones son **recíprocas** (verificadas una a una).
-6. **Veredicto** — cinco banderas verde/ámbar/rojo con su regla explícita, y la estimación de suscriptores de pago
-   **como rango**, nunca como cifra exacta.
+6. **Veredicto** — cinco banderas verde/ámbar/rojo, cada una con **la regla que la determina impresa al lado** (para
+   que puedas rehacer la cuenta a mano), y la estimación de suscriptores de pago **como rango**, nunca como cifra
+   exacta.
+
+El semáforo de participación no usa un umbral plano: compara la mediana de reacciones con la **mediana de su tramo
+de tamaño** (estudio público de 485 newsletters y 7.631 posts, citado en el informe). Una publicación de 400.000
+suscriptores no se juzga con la vara de una de 2.000.
 
 ## Qué NO incluye (dicho claro)
 
 - **No** accede a la cuenta del autor ni a datos privados: solo datos públicos.
 - **No** incluye emails de lectores, ni contenido de pago, ni aperturas, clics o ingresos reales.
-- **No** calcula un MRR exacto ni percentiles contra una cohorte de publicaciones: los números son de esa
-  publicación y sus propios 12 meses.
+- **No** calcula un MRR exacto. Los números son de esa publicación y sus propios 12 meses; la única referencia
+  externa es la mediana de reacciones del tramo de tamaño al que pertenece, citada con su fuente dentro del informe.
 - Si la publicación no declara su franja de pago, el informe escribe «sin dato» en lugar de estimar.
 
 ## Precios
